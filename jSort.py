@@ -6,7 +6,7 @@ def jSort(arr, arr1, maxi):
 
 testArr = [2, 5, 7, 9, 3, 4, 6, 8, 1]
 finArr = []
-eSort(testArr, finArr, 9)
+jSort(testArr, finArr, 9)
 print(finArr)
 
 #I guess this would have a time complexity best/worst/avg case of O(n^2) and space complexity of O(n)? IDK.
