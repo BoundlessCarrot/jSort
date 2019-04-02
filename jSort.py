@@ -3,7 +3,6 @@ def jSort(arr, arr1, maxi):
 		for j in range(0, len(arr)):
 			if arr[j] == i:
 				arr1.append(arr[j])
-				print(arr1)
 
 testArr = [2, 5, 7, 9, 3, 4, 6, 8, 1]
 finArr = []
